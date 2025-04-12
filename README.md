@@ -1,2 +1,2 @@
-Proiectul curent face parte din Html foundations si trebuie sa realizez o pagina web in care descriu diverse retete,continand si link-uri corespunzatoare.
-Tot scriptul va fii plasat in fila index.html
+Proiectul face parte din Html foundations Odin Projects si trebuie sa realizez o pagina web in care descriu diverse retete,continand si link-urile corespunzatoare.
+Tot scriptul va fii plasat in fila index.html,scris in intregime folosind doar html.
